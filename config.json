@@ -1,0 +1,6 @@
+{
+    "bot_token": "YOUR_BOT_TOKEN_HERE",
+    "prefix": "$",
+    "owner_id": 1484508031923392522,
+    "allowed_users": []
+}
